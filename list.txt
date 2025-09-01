@@ -1,1 +1,2 @@
 *.plausible.io
+plausible.io
